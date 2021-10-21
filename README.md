@@ -32,3 +32,9 @@ lzop -cd "$FILENAME" | psql "$DATABASE_NAME"
 ```
 npm run dev
 ```
+
+## For admin access in site (login staff):
+
+### username: lilbeasts
+
+### password: @dm1n_B3@sts
